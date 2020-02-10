@@ -1,0 +1,6 @@
+print("hello")
+print(2)
+print(2+3)
+print('hello')
+print('first')
+print(2+3)
